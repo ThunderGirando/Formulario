@@ -163,7 +163,7 @@ main {
 article>h2 {
     padding-bottom: 17px;
     color: black;
-
+ font-size: 1vh;
 }
 
 article>p {
@@ -339,6 +339,10 @@ img {
         background-size: cover;
     }
 
+    h1 {
+        font-size: 5vh
+    }
+
     #burger {
         display: none;
     }
@@ -417,7 +421,7 @@ img {
         padding-bottom: 17px;
         color: black;
         margin-left: 5vh;
-        font-size: 7vh;
+        font-size: 4vh;
         margin-top: 3vh;
     }
 
