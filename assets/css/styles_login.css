@@ -58,7 +58,7 @@ section#login {
 
 section#login>div#imagem {
     display: block;
-    background: #4b3c5d url(/assets/vikings.jpg) no-repeat;
+    background: #4b3c5d url("../gif/shoyohappygif.gif") no-repeat;
     background-size: cover;
     background-position: left center;
     height: 200px;
@@ -180,7 +180,7 @@ font-size: 1.8em;
         float: left;
         width: 30%;
         height: 100%;
-        background: #4b3c5d url(/assets/vikings.jpg) no-repeat;
+        background: #4b3c5d url("../gif/shoyohappygif.gif") no-repeat;
         background-size: cover;
         background-position: right bottom;
 
@@ -199,7 +199,7 @@ font-size: 1.8em;
 
 @media screen and (min-width: 993px) {
     body {
-        background-image: linear-gradient(to top, #c89377, #21203f);
+        background-image: linear-gradient(to top, #c26939, #484686);
     }
 
     section#login {
@@ -212,7 +212,7 @@ font-size: 1.8em;
         float: right;
         width: 50%;
         height: 100%;
-        background: #4b3c5d url(/assets/vikings.jpg) no-repeat;
+        background: #4b3c5d url("../gif/shoyohappygif.gif") no-repeat;
         background-size: cover;
         background-position: right center;
         /*  */
